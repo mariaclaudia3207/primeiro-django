@@ -1,2 +1,0 @@
-O mysite/diretório interno é o pacote Python real para o seu projeto. 
-Seu nome é o nome do pacote Python que você precisará usar para importar qualquer coisa dentro dele (por exemplo, mysite.urls).
