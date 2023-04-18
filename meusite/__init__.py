@@ -1,0 +1,1 @@
+# mysite/__init__.py: Um arquivo vazio que informa ao Python que esse diretório deve ser considerado um pacote Python. 
